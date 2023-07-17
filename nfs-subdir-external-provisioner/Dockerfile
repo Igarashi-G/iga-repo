@@ -1,2 +1,2 @@
 FROM registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-MAINTAINER heqingbao <qingbao.ho@gmail.com>
+MAINTAINER zhengze <zhengze2333@gmail.com>
